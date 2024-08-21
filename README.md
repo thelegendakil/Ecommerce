@@ -26,3 +26,4 @@
 | Favorites | Search | Profile |
 | --------- | ------ | ------- |
 |<img src="https://user-images.githubusercontent.com/29903779/178732712-00cbc7eb-106a-40d1-80d5-8760f3f16e5c.jpeg" width="250" height="500"/>|<img src="https://user-images.githubusercontent.com/29903779/178732793-ece04a7c-2809-4ee3-a21a-4c502f2c4fd7.jpeg" width="250" height="500"/>|<img src="https://user-images.githubusercontent.com/29903779/178732899-aeded36f-c90b-4dcd-a9e6-fdb6469b9cf1.jpeg" width="250" height="500"/>|
+
