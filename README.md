@@ -8,6 +8,7 @@
  - Room Database
  - Glide
  - TabLayout & ViewPager2 with PageTransformer
+ - My Line
 
 ## Screens
 
